@@ -1,30 +1,3 @@
-# MIS443-Final-Exam-2332300046
-# Final Project - MIS443
-
-
-# Customers Data
-## Project Objectives
-
-
-
----
-
-## Project Files
-
-```
-├── SQL/
-│
-└── README.md
-
-
-## Business Questions
-
-Contains 6 questions which is answered detailedly in the report.
-
-# 📊 MIS443 — Database Design & SQL Project
-
-<div align="center">
-
 ### 🗄️ Relational Database Management System
 
 **Course:** MIS443
